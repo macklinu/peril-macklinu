@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "onlyForOrgMembers": false
+  },
+  "rules": {},
+  "repos": {
+    "macklinu/test": {
+      "issues.opened": "macklinu/peril-macklinu@dangerfiles/issue.js"
+    }
+  }
+}
