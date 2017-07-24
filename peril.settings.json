@@ -5,7 +5,8 @@
   "rules": {},
   "repos": {
     "macklinu/test": {
-      "issues.opened": "macklinu/peril-macklinu@dangerfiles/issue.js"
+      "issues.opened": "macklinu/peril-macklinu@dangerfiles/issue.js",
+      "pull_request": "macklinu/peril-macklinu@dangerfiles/pr.js"
     }
   }
 }
